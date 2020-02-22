@@ -462,3 +462,9 @@ created: 2020-02-22 01:57 +0100
 parent: 01E1N6C884SESBB9YJ21HDTKNQ
 
 The core data structure is the same as any outliner (a tree)
+---
+id: 01E1N6DJF42HAA2EYSF9G3RG8W
+created: 2020-02-22 01:58 +0100
+parent: 01E1N6C884SESBB9YJ21HDTKNQ
+
+It doesn't allow you to reorder items
