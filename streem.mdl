@@ -173,3 +173,9 @@ created: 2020-02-22 01:18 +0100
 parent: 01E1N44MNCPE47A9212TMA1E0J
 
 Once a node is selected, you can append new children to it
+---
+id: 01E1N46RSHCMHH266K5Y1MEG6F
+created: 2020-02-22 01:19 +0100
+parent: 01E1N3RHQRX4WRRZK2X614M3BP
+
+by the way, continuations show the "parent" node in green, preceded by dots
