@@ -185,3 +185,9 @@ created: 2020-02-22 01:21 +0100
 parent: 01E1N44MNCPE47A9212TMA1E0J
 
 You can indent/outdent a selected node by pressing "Tab" or "Alt-Tab"
+---
+id: 01E1N4BP3WFFDK1S8N53VRD3NG
+created: 2020-02-22 01:22 +0100
+parent: 01E1N41JS1ASGB3D7YVV5G72QG
+
+You can focus on a node (show only its children) with "Ctrl-Click"
