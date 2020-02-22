@@ -191,3 +191,9 @@ created: 2020-02-22 01:22 +0100
 parent: 01E1N41JS1ASGB3D7YVV5G72QG
 
 You can focus on a node (show only its children) with "Ctrl-Click"
+---
+id: 01E1N4EG0Y0R86D5HN4QHCV4BH
+created: 2020-02-22 01:23 +0100
+parent: 01E1N41JS1ASGB3D7YVV5G72QG
+
+You can use a node as a "search" input by doubleclicking on it
