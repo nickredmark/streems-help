@@ -468,3 +468,9 @@ created: 2020-02-22 01:58 +0100
 parent: 01E1N6C884SESBB9YJ21HDTKNQ
 
 It doesn't allow you to reorder items
+---
+id: 01E1N6E3DQ07YMPJSTMMQ5GHW9
+created: 2020-02-22 01:58 +0100
+parent: 01E1N6C884SESBB9YJ21HDTKNQ
+
+It displays interlacing items as "continuations"
