@@ -167,3 +167,9 @@ created: 2020-02-22 01:18 +0100
 parent: 01E1N41JS1ASGB3D7YVV5G72QG
 
 To select a node click on it, or use the up/down keys
+---
+id: 01E1N458DZM963XZHG2XCFBRMX
+created: 2020-02-22 01:18 +0100
+parent: 01E1N44MNCPE47A9212TMA1E0J
+
+Once a node is selected, you can append new children to it
