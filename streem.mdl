@@ -528,3 +528,9 @@ created: 2020-02-22 02:01 +0100
 parent: 01E1N6J345PWV5S4HFQ15VSAMH
 
 No reordering of items and no diary pages because everything is ordered by default
+---
+id: 01E1N6NJA0D269Y63G4DNVQTBJ
+created: 2020-02-22 02:02 +0100
+parent: 01E1N6J345PWV5S4HFQ15VSAMH
+
+No pages with linking and transclusion because search is a generalization of that
