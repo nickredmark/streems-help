@@ -179,3 +179,9 @@ created: 2020-02-22 01:19 +0100
 parent: 01E1N3RHQRX4WRRZK2X614M3BP
 
 by the way, continuations show the "parent" node in green, preceded by dots
+---
+id: 01E1N4A4C6EB0HRQJVEPDENE4J
+created: 2020-02-22 01:21 +0100
+parent: 01E1N44MNCPE47A9212TMA1E0J
+
+You can indent/outdent a selected node by pressing "Tab" or "Alt-Tab"
