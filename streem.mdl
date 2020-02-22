@@ -397,3 +397,9 @@ created: 2020-02-22 01:53 +0100
 parent: 01E1N64WZ8X9DT8C0VZW4HSDF3
 
 That's the truly networked kind of structure
+---
+id: 01E1N666BDMM00R44RHWX7ABJ0
+created: 2020-02-22 01:54 +0100
+parent: 01E1N655FX0QAPN6N6NA3AHBTF
+
+Every word is a bidirectional (omnidirectional) link to all other nodes with that word
