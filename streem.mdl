@@ -593,3 +593,9 @@ created: 1582832200427
 parent: 01E2425X52J2ZXBWARSW435T8D
 
 Create a token with a "repo" permission
+---
+id: 01E242FH0GHJD6ZY7DRZ0N89QW
+created: 1582832272400
+parent: 01E2425X52J2ZXBWARSW435T8D
+
+On the left enter <username/repo>, <email>, <token>, press "sync"
