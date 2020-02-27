@@ -599,3 +599,9 @@ created: 1582832272400
 parent: 01E2425X52J2ZXBWARSW435T8D
 
 On the left enter <username/repo>, <email>, <token>, press "sync"
+---
+id: 01E242FX9VXR2JMCZJ300NDQAM
+created: 1582832284988
+parent: 01E2425X52J2ZXBWARSW435T8D
+
+All your changes should be synced to your repo
